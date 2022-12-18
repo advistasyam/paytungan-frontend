@@ -1,6 +1,3 @@
-[![pipeline status](https://gitlab.cs.ui.ac.id/ppl-fasilkom-ui/2022/Kelas-B/timbul/paytungan-frontend/badges/main/pipeline.svg)](https://gitlab.cs.ui.ac.id/ppl-fasilkom-ui/2022/Kelas-B/timbul/paytungan-frontend/-/commits/main)
-
-[![coverage report](https://gitlab.cs.ui.ac.id/ppl-fasilkom-ui/2022/Kelas-B/timbul/paytungan-frontend/badges/main/coverage.svg)](https://gitlab.cs.ui.ac.id/ppl-fasilkom-ui/2022/Kelas-B/timbul/paytungan-frontend/-/commits/main)
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -57,7 +54,7 @@ Web Application Repo for Paytungan
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/ppl-ubul/paytungan-frontend.git
+    git clone https://github.com/advistasyam/paytungan-frontend
     ```
 2. Check you have node js min. version v16.14.0, to check :
     ```sh
