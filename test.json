@@ -1,0 +1,59 @@
+{
+    "name": "Pizza Hut Karawang",
+    "total_expense": 57639,
+    "split": [
+        {
+            "nickname": "Orang 1",
+            "username": "orang1",
+            "total": 15000,
+            "details": [
+                {
+                    "title": "Es teh manis",
+                    "expanse": 5000
+                },
+                {
+                    "title": "Spaghetti Bolognese",
+                    "expanse": 10000
+                }
+            ]
+        },
+        {
+            "nickname": "Orang 2",
+            "username": "orang2",
+            "total": 15000,
+            "details": [
+                {
+                    "title": "Es teh manis",
+                    "expanse": 5000
+                },
+                {
+                    "title": "Spaghetti Bolognese",
+                    "expanse": 10000
+                },
+                {
+                    "title": "Pajak",
+                    "expanse": 1213
+                },
+                {
+                    "title": "Diskon",
+                    "expanse": -1000
+                }
+            ]
+        },
+        {
+            "nickname": "Orang 3",
+            "username": "orang3",
+            "total": 11213,
+            "details": [
+                {
+                    "title": "Spaghetti Bolognese",
+                    "expanse": 10000
+                },
+                {
+                    "title": "Pajak",
+                    "expanse": 1213
+                }
+            ]
+        }
+    ]
+}

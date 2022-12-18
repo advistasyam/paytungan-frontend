@@ -1,0 +1,20 @@
+{
+  "metodePembayaran": [
+    {
+      "id": 1,
+      "name": "BRI"
+    },
+    {
+      "id": 2,
+      "name": "BNI"
+    },
+    {
+      "id": 3,
+      "name": "GOPAY"
+    },
+    {
+      "id": 4,
+      "name": "OVO"
+    }
+  ]
+}

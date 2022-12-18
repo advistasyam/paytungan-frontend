@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="22" failures="0" errors="0" time="12.632">
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2022-06-14T10:08:54" time="5.244" tests="1">
+    <testcase classname=" Tagihan" name=" Tagihan" time="0.175">
+    </testcase>
+  </testsuite>
+  <testsuite name="DetailPaymentPage" errors="0" failures="0" skipped="0" timestamp="2022-06-14T10:08:54" time="5.334" tests="1">
+    <testcase classname="DetailPaymentPage renders default form" name="DetailPaymentPage renders default form" time="0.23">
+    </testcase>
+  </testsuite>
+  <testsuite name="DetailBillPage" errors="0" failures="0" skipped="0" timestamp="2022-06-14T10:08:54" time="5.611" tests="1">
+    <testcase classname="DetailBillPage renders default form" name="DetailBillPage renders default form" time="0.364">
+    </testcase>
+  </testsuite>
+  <testsuite name="Verifikasi" errors="0" failures="0" skipped="0" timestamp="2022-06-14T10:08:53" time="5.861" tests="1">
+    <testcase classname="Verifikasi renders correctly" name="Verifikasi renders correctly" time="0.574">
+    </testcase>
+  </testsuite>
+  <testsuite name="Konfirmasi" errors="0" failures="0" skipped="0" timestamp="2022-06-14T10:08:54" time="5.72" tests="1">
+    <testcase classname="Konfirmasi renders correctly" name="Konfirmasi renders correctly" time="0.338">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2022-06-14T10:08:54" time="6.366" tests="1">
+    <testcase classname=" Tagihan" name=" Tagihan" time="0.17">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2022-06-14T10:08:53" time="6.658" tests="1">
+    <testcase classname=" Onboarding" name=" Onboarding" time="0.463">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2022-06-14T10:08:59" time="1.889" tests="1">
+    <testcase classname=" Group" name=" Group" time="0.191">
+    </testcase>
+  </testsuite>
+  <testsuite name="Profil" errors="0" failures="0" skipped="0" timestamp="2022-06-14T10:08:59" time="1.888" tests="1">
+    <testcase classname="Profil renders correctly" name="Profil renders correctly" time="0.102">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2022-06-14T10:08:59" time="2.151" tests="1">
+    <testcase classname=" Ubah" name=" Ubah" time="0.18">
+    </testcase>
+  </testsuite>
+  <testsuite name="Home" errors="0" failures="0" skipped="0" timestamp="2022-06-14T10:08:59" time="2.709" tests="1">
+    <testcase classname="Home test Homepage Group Split Bill UI" name="Home test Homepage Group Split Bill UI" time="0.17">
+    </testcase>
+  </testsuite>
+  <testsuite name="SignUp" errors="0" failures="0" skipped="0" timestamp="2022-06-14T10:08:59" time="2.807" tests="1">
+    <testcase classname="SignUp renders default form" name="SignUp renders default form" time="0.831">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2022-06-14T10:09:00" time="2.256" tests="1">
+    <testcase classname=" SelectPerson" name=" SelectPerson" time="0.189">
+    </testcase>
+  </testsuite>
+  <testsuite name="SuccessSplitBill" errors="0" failures="0" skipped="0" timestamp="2022-06-14T10:09:01" time="1.795" tests="1">
+    <testcase classname="SuccessSplitBill renders default form" name="SuccessSplitBill renders default form" time="0.23">
+    </testcase>
+  </testsuite>
+  <testsuite name="PreviewSplitBill" errors="0" failures="0" skipped="0" timestamp="2022-06-14T10:09:00" time="2.533" tests="1">
+    <testcase classname="PreviewSplitBill renders default form" name="PreviewSplitBill renders default form" time="0.319">
+    </testcase>
+  </testsuite>
+  <testsuite name="Verifikasi Berhasil" errors="0" failures="0" skipped="0" timestamp="2022-06-14T10:09:02" time="1.653" tests="1">
+    <testcase classname="Verifikasi Berhasil renders correctly" name="Verifikasi Berhasil renders correctly" time="0.074">
+    </testcase>
+  </testsuite>
+  <testsuite name="Home" errors="0" failures="0" skipped="0" timestamp="2022-06-14T10:09:02" time="1.634" tests="1">
+    <testcase classname="Home renders a heading" name="Home renders a heading" time="0.3">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2022-06-14T10:09:01" time="2.106" tests="1">
+    <testcase classname=" InputBill" name=" InputBill" time="0.103">
+    </testcase>
+  </testsuite>
+  <testsuite name="Search Contact" errors="0" failures="0" skipped="0" timestamp="2022-06-14T10:09:02" time="1.539" tests="1">
+    <testcase classname="Search Contact renders correctly" name="Search Contact renders correctly" time="0.187">
+    </testcase>
+  </testsuite>
+  <testsuite name="Search Contact" errors="0" failures="0" skipped="0" timestamp="2022-06-14T10:09:02" time="1.651" tests="1">
+    <testcase classname="Search Contact renders correctly" name="Search Contact renders correctly" time="0.186">
+    </testcase>
+  </testsuite>
+  <testsuite name="Payment Page" errors="0" failures="0" skipped="0" timestamp="2022-06-14T10:09:03" time="1.26" tests="1">
+    <testcase classname="Payment Page renders correctly" name="Payment Page renders correctly" time="0.147">
+    </testcase>
+  </testsuite>
+  <testsuite name="Help Center Page" errors="0" failures="0" skipped="0" timestamp="2022-06-14T10:09:03" time="1.232" tests="1">
+    <testcase classname="Help Center Page renders correctly" name="Help Center Page renders correctly" time="0.099">
+    </testcase>
+  </testsuite>
+</testsuites>

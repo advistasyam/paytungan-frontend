@@ -1,0 +1,24 @@
+{
+  "faqArray": [
+    {
+      "id": 1,
+      "question": "Bagaimana cara membuat Split Bill?",
+      "answer": "1. Klik tanda (+) yang ada pada halaman utama \n 2. Pilih temanmu ikutan patungan \n 3. Isi data yang dibutuhkan untuk melakukan split bill \n 4. Cek kelengkapan data \n 5. Klik tombol Buat Split Bill \n 6. Ingat yaa, grup tidak dapat diedit setelah terbuat"
+    },
+    {
+      "id": 2,
+      "question": "Bagaimana cara mengecek status Split Bill?",
+      "answer": "1. Buka grup split bill \n 2. Apabila muncul 'Tagihan Lunas' pada grup, artinya split bill kamu sudah lunas"
+    },
+    {
+      "id": 3,
+      "question": "Apakah grup Split Bill yang sudah lunas masih dapat dibuka?",
+      "answer": "Ya, caranya adalah dengan membuka grup split bill yang ada pada halaman utama"
+    },
+    {
+      "id": 4,
+      "question": "Bagaimana cara mencari kontak teman?",
+      "answer": "Buka halaman Kontak terlebih dahulu, kemudian ketikkan username dari orang yang terkait. Jika usernamenya benar maka profilnya akan terdapat pada hasil pencarian, tetapi jika tidak maka akun tidak ditemukan."
+    }
+  ]
+}
